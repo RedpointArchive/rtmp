@@ -3,8 +3,8 @@ package data_test
 import (
 	"testing"
 
-	"github.com/WatchBeam/rtmp/chunk"
-	"github.com/WatchBeam/rtmp/cmd/data"
+	"github.com/redpointgames/rtmp/chunk"
+	"github.com/redpointgames/rtmp/cmd/data"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -3,7 +3,7 @@ package conn_test
 import (
 	"testing"
 
-	"github.com/WatchBeam/rtmp/cmd/conn"
+	"github.com/redpointgames/rtmp/cmd/conn"
 )
 
 func TestRelevantCommandsImplementReceivable(t *testing.T) {

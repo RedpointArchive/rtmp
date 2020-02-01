@@ -1,7 +1,7 @@
 package chunk_test
 
 import (
-	"github.com/WatchBeam/rtmp/chunk"
+	"github.com/redpointgames/rtmp/chunk"
 	"github.com/stretchr/testify/mock"
 )
 

@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/WatchBeam/amf0"
-	"github.com/WatchBeam/rtmp/chunk"
+	"github.com/redpointgames/amf0"
+	"github.com/redpointgames/rtmp/chunk"
 )
 
 const (

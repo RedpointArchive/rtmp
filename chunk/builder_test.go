@@ -5,7 +5,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/WatchBeam/rtmp/chunk"
+	"github.com/redpointgames/rtmp/chunk"
 	"github.com/stretchr/testify/assert"
 )
 
